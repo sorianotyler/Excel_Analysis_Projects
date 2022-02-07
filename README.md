@@ -31,7 +31,7 @@
    - We can conclude that fundraisers with Goals that are less than $5,000 are more likely to be successful.
 
 - What are some limitations of this dataset?
-   - We are limited to 
+   - We are limited by our relatively small sample size. There are only 1369 out of 4113 projects that are relavent to this analysis which will limit our findings. 
 
 - What are some other possible tables and/or graphs that we could create?
-   - I would create an outcome 
+   - I would create an a graph that shows the subcatgory "play" outcome vs launch date. This would give a better idea of when the best time was for Louise to start her fundraiser. You would only have to filter by subcatagory instead of category when conducting the Outcomes Based on Launch date analysis. 
