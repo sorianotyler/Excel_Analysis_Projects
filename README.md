@@ -20,6 +20,7 @@
 ### Challenges and Difficulties Encountered
   - The difficulties encountered came with collecting data for both Launch dates and Goals. For the launch date analysis I create a pivot table, filtering for Category and years. I wanted to compare the months to each other and only had the Start. I was able to overcome this difficulty by grouping dates together to form months using the group function in Excel. This gave me the information needed to complete the analysis. 
   - For the outcomes based on goals analysis, I ran into some trouble when dealing with the countif funciton when creating the Goal Ranges. I found that utalizing the >= notation when creating criteria would be critical to collect all the data needed to complete this analysis.
+  - Also, a potential problem could be that there are multiple countries on the dataset which all have different currencies. This will require cleaning to get the best result.
 
 ## Results
 
@@ -32,6 +33,8 @@
 
 - What are some limitations of this dataset?
    - We are limited by our relatively small sample size. There are only 1369 out of 4113 projects that are relavent to this analysis which will limit our findings. 
+   - We are also working with different currencies, which can skew the data a bit and we would need to clean. 
 
 - What are some other possible tables and/or graphs that we could create?
    - I would create an a graph that shows the subcatgory "play" outcome vs launch date. This would give a better idea of when the best time was for Louise to start her fundraiser. You would only have to filter by subcatagory instead of category when conducting the Outcomes Based on Launch date analysis. 
+   - I would also create a graph that shows the goal in terms of one currency (perferably USD). This will help clean the data while giving us a better idea of the target goal. 
